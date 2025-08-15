@@ -1,4 +1,6 @@
-#Oii me chamo yasmin (bolas)
+#OII  ME CHAMO YASMIN (bolas)
+
+
 Tenho 16 anos e estou no 2º ano do ensino médio. Amo esportes principalmente basquete, futebol e handebol — e eu tenho o melhor  namorado. Minhas melhores amigas são Eloisa, Soraia, Lívia e Vivian, e eu adoro filmes da disney!
 
 
