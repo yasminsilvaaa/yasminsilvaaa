@@ -1,8 +1,9 @@
-<h1 align="center">Olá! 👋 Eu sou [yasmin silva]</h1>
+#Oii me chamo yasmin (bolas)
+Tenho 16 anos e estou no 2º ano do ensino médio. Amo esportes principalmente basquete, futebol e handebol — e eu tenho o melhor  namorado. Minhas melhores amigas são Eloisa, Soraia, Lívia e Vivian, e eu adoro filmes da disney!
 
 
 
-### 🛠️ Tecnologias
+
 
 ![HTML](https://img.shields.io/badge/-HTML5-orange?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
