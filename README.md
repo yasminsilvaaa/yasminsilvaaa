@@ -10,25 +10,6 @@
 ![CSS](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black)
 
-<!-- Adicione ou remova conforme o que você usa -->
-
----
-
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400px" />
-</p>
-
-
-
-
-
-
-
-
-
 ![Coding GIF](https://i.pinimg.com/originals/f3/4c/bc/f34cbcf5949fbe3606525fa5e2a0c236.gif)
 
 <p align="center">
