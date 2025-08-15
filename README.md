@@ -1,8 +1,6 @@
-<h1 align="center">Olá! 👋 Eu sou [Seu Nome ou Apelido]</h1>
+<h1 align="center">Olá! 👋 Eu sou [yasmin silva]</h1>
 
 
-
----
 
 ### 🛠️ Tecnologias
 
