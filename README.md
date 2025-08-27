@@ -14,7 +14,7 @@ Tenho 16 anos e estou no 2º ano do ensino médio. Amo esportes principalmente b
 ![CSS](https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black)
 
-![Coding GIF](https://i.pinimg.com/originals/99/da/3f/99da3f13dd47d4178e4325f32b1ea235.gif)
+![Coding GIF]()
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/99/da/3f/99da3f13dd47d4178e4325f32b1ea235.gif" alt="Coding GIF" />
