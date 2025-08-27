@@ -17,6 +17,6 @@ Tenho 16 anos e estou no 2º ano do ensino médio. Amo esportes principalmente b
 
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/90/62/ad/9062ad7c168e036f7396bf39fd9602e0.gif" />
+  <img src="https://i.pinimg.com/originals/5b/fc/91/5bfc914bfd5a9a97c48f8d51a0adc61b.gif" />
 </p>
 
