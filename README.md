@@ -3,7 +3,7 @@
 </h1>
 
 
-Tenho 16 anos e estou no 2º ano do ensino médio. Amo esportes principalmente basquete, futebol e handebol — Minhas melhores amigas são Eloisa, Soraia, Evelin e Aline, e eu adoro filmes da disney!
+Tenho 16 anos e estou no 3º ano do ensino médio. Amo esportes principalmente basquete, futebol e handebol — Minhas melhores amigas são Eloisa, Soraia, e Aline, e eu adoro filmes da disney!
 
 
 
